@@ -10,7 +10,6 @@ use yii\bootstrap\ActiveForm;
 $this->title = '登陆';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
-<?//= Html::img('@web/bg.jpg', ['alt' => 'My logo']) ?>
 <!--<div style="background-image:url(bg.jpg);height: 787px;background-color: aliceblue;background-size: auto"></div>-->
 
 <div style="background-image:url(校门.jpg);background-size: 1142px 583px;height: 583px;">
