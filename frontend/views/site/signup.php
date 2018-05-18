@@ -11,15 +11,15 @@ $this->title = '注册';
 $this->params['breadcrumbs'][] = $this->title;
 ?>
 
-<div style="background-image:url(nanhuadaxuexiaomen.jpg);max-height: 300px">
+<div style="background-image:url(校门.jpg);background-size: 1142px 583px;height: 583px;">
 
     <div class="row">
 
-        <div class="col-md-5">
+        <div class="col-md-1">
 
         </div>
 
-        <div class="col-md-7 panel">
+        <div class="col-md-3 panel">
 
             <div class="site-signup">
                 <h1><?= Html::encode($this->title) ?></h1>
@@ -46,7 +46,9 @@ $this->params['breadcrumbs'][] = $this->title;
             </div>
         </div>
 
+        <div class="col-md-5">
 
+        </div>
 
     </div>
 

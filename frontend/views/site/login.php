@@ -13,15 +13,15 @@ $this->params['breadcrumbs'][] = $this->title;
 <?//= Html::img('@web/bg.jpg', ['alt' => 'My logo']) ?>
 <!--<div style="background-image:url(bg.jpg);height: 787px;background-color: aliceblue;background-size: auto"></div>-->
 
-<div style="background-image:url(nanhuadaxuexiaomen.jpg);max-height: 300px">
+<div style="background-image:url(校门.jpg);background-size: 1142px 583px;height: 583px;">
 
     <div class="row">
 
-        <div class="col-md-5">
+        <div class="col-md-1">
 
         </div>
 
-        <div class="col-md-7 panel">
+        <div class="col-md-3 panel">
             <div class="site-login" >
                 <h1><?= Html::encode($this->title) ?></h1>
 

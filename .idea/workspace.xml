@@ -2,173 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc6abfc-e6b7-4ca7-a0ad-535674ab9111" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5afd60828fe23.data" beforeDir="false" afterPath="$PROJECT_DIR$/backend/runtime/debug/5afd60828fe23.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/runtime/debug/5afd6084e2219.data" beforeDir="false" afterPath="$PROJECT_DIR$/backend/runtime/debug/5afd6084e2219.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/214e017e/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/214e017e/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.slim.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.slim.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/214e017e/jquery.slim.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/jquery.pjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/jquery.pjax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/script/bootstrap" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/script/bootstrap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/script/server" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/script/server" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/script/test" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/script/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/app.rb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/app.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/evaled.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/evaled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/run-qunit.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/run-qunit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/fn_pjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/fn_pjax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/pjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/pjax.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/pjax_fallback.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/unit/pjax_fallback.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/aliens.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/aliens.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/anchor.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/anchor.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/boom.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/boom.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/boom_sans_pjax.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/boom_sans_pjax.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/dinosaurs.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/dinosaurs.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/double_title.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/double_title.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/empty.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/empty.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/env.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/env.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/fragment.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/fragment.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/hello.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/hello.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/home.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/home.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/layout.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/layout.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/long.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/long.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/nested_title.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/nested_title.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/qunit.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/qunit.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/referer.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/referer.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/scripts.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/scripts.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/timeout.erb" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/test/views/timeout.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/jquery-1.12.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/jquery-1.12.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/jquery-2.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/jquery-2.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/jquery-3.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/jquery-3.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/qunit.css" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/qunit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/qunit.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/265991ab/vendor/qunit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.activeForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.activeForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.captcha.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.captcha.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.gridView.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.gridView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/4fb91035/yii.validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/web/assets/ef98638b/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/assets/ef98638b/js/npm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec3aa22afa.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec3c542332.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec3c569eb2.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec3c7014e5.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec3c720bb2.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec3c904388.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec3c92b664.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec45eb9b2a.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec4739e396.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec4874c6f4.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec5948a020.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec5a2b6663.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec5a2b6663.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec5a4c2212.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec5a4c2212.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec5beadc9f.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec5beadc9f.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec65a67476.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec65a67476.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec65a9684a.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec65a9684a.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec66a0c99f.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec66a0c99f.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec6912a30f.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec6912a30f.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec6a11d821.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec6a11d821.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec70f5ae22.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec70f5ae22.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afec8dbdb51d.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afec8dbdb51d.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afecd811e4cb.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afecd811e4cb.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afecdafc0e31.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afecdafc0e31.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afecdf470f1c.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afecdf470f1c.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afece1865440.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afece1865440.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afece90eb940.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afece90eb940.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afecee849e3c.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afecee849e3c.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afecf32953ff.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afecf32953ff.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed018479fd.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed018479fd.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed03c601b0.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed03c601b0.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed0e48d1c7.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed0e48d1c7.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed165da7e5.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed165da7e5.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed1dc4fa30.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed1dc4fa30.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed25fb9c8b.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed25fb9c8b.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed2704ab29.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed2704ab29.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed298e3041.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed298e3041.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed2ac47e89.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed2ac47e89.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afed2ff2265b.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afed2ff2265b.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afeed14c95be.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afeed14c95be.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afeed846ce14.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afeed846ce14.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afeee786a76a.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afeee786a76a.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afeeea25ee78.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afeeea25ee78.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afeeee492a3c.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afeeee492a3c.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef01345203.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef01345203.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef014af65d.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef014af65d.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef0168604a.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef0168604a.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef017dab59.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef017dab59.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef01dc5fbf.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef01dc5fbf.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef01f21e27.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef01f21e27.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef0b269fda.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef0b269fda.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef1085e162.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef1085e162.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef10e8bc89.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef10e8bc89.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef11547048.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef11547048.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef4778b219.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef4778b219.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47949513.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef47949513.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47968dd5.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef47968dd5.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47a9a7fe.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef47a9a7fe.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47b7602b.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/5afef47b7602b.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/web/校门.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/index.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/index.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/views/site/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/site/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/views/site/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/views/site/signup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/214e017e/core.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/214e017e/core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.slim.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.slim.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.slim.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.slim.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/214e017e/jquery.slim.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.activeForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.activeForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.captcha.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.captcha.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.gridView.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.gridView.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.validation.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/4fb91035/yii.validation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/assets/ef98638b/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/assets/ef98638b/js/npm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/nanhuadaxuexiaomen.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/nanhuadaxuexiaomen.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/web/yijiao.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/web/yijiao.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -182,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="login.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frontend/views/site/login.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="302">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -194,16 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="signup.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="signup.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frontend/views/site/signup.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+            <state relative-caret-position="180">
+              <caret line="13" column="85" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="85" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="校门.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frontend/web/校门.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -215,6 +58,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/frontend/views/site/signup.php" />
+        <option value="$PROJECT_DIR$/frontend/views/site/login.php" />
       </list>
     </option>
   </component>
@@ -306,11 +150,9 @@
       <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="56" />
-    <option name="y" value="28" />
-    <option name="width" value="1314" />
-    <option name="height" value="816" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -368,6 +210,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/frontend/web" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -390,17 +237,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526660157794</updated>
-      <workItem from="1526660159152" duration="979000" />
+      <workItem from="1526660159152" duration="2072000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="979000" />
+    <option name="totallyTimeSpent" value="2072000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="28" width="1314" height="816" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16932908" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -428,20 +276,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/frontend/views/site/login.php">
+    <entry file="file://$PROJECT_DIR$/frontend/web/bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/web/校门.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/views/site/signup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="36" />
+        <state relative-caret-position="180">
+          <caret line="13" column="85" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="85" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/views/site/signup.php">
+    <entry file="file://$PROJECT_DIR$/frontend/views/site/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+        <state relative-caret-position="302">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
