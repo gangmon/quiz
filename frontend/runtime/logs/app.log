@@ -23913,3 +23913,706 @@ $_SERVER = [
     'REQUEST_TIME_FLOAT' => 1521701963.5326
     'REQUEST_TIME' => 1521701963
 ]
+2018-05-22 16:26:36 [192.168.1.105][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/SiteController.php:79
+2018-05-22 16:26:36 [192.168.1.105][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:26:36 [192.168.1.105][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPUPFv6eP7IOo3egFsSPAAAAAE'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59059'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/quiz/frontend/web/'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977596.159
+    'REQUEST_TIME' => 1526977596
+]
+2018-05-22 16:26:52 [192.168.1.105][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:26:52 [192.168.1.105][-][-][info][application] $_GET = [
+    'r' => 'result/allquiz'
+]
+
+$_POST = [
+    '_csrf-frontend' => 'Tuu-lra73i9lRYNA93SkiMkaBIQgXAff3su2W2xUEAYAiIbfzviceQMr9AOcDMX7rX1-s3A0d7KqvsEcBzxKWQ=='
+    'is_real' => '1'
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '0302b42b6352a06c7eaaed90726222c1'
+    '_csrf-frontend' => '122cbd8c6e498f18c7f7cfafa545a5c8665c128dc7786b0166dff5e7eb55f0cfa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Nc8IxCBVfnwCkxasdgz7PhpmtuwGkhZ_\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPUTHqKg18yOjqhfEVrngAAAAk'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'CONTENT_LENGTH' => '117'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_COOKIE' => 'advanced-frontend=0302b42b6352a06c7eaaed90726222c1; _csrf-frontend=122cbd8c6e498f18c7f7cfafa545a5c8665c128dc7786b0166dff5e7eb55f0cfa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Nc8IxCBVfnwCkxasdgz7PhpmtuwGkhZ_%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59068'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'r=result%2Fallquiz'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=result%2Fallquiz'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977612.333
+    'REQUEST_TIME' => 1526977612
+]
+2018-05-22 16:26:52 [192.168.1.105][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/SiteController.php:100
+2018-05-22 16:26:52 [192.168.1.105][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:26:52 [192.168.1.105][-][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '0302b42b6352a06c7eaaed90726222c1'
+    '_csrf-frontend' => '122cbd8c6e498f18c7f7cfafa545a5c8665c128dc7786b0166dff5e7eb55f0cfa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Nc8IxCBVfnwCkxasdgz7PhpmtuwGkhZ_\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPUTHqKg18yOjqhfEVrnwAAAAk'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=0302b42b6352a06c7eaaed90726222c1; _csrf-frontend=122cbd8c6e498f18c7f7cfafa545a5c8665c128dc7786b0166dff5e7eb55f0cfa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Nc8IxCBVfnwCkxasdgz7PhpmtuwGkhZ_%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59068'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977612.398
+    'REQUEST_TIME' => 1526977612
+]
+2018-05-22 16:27:04 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:27:03 [192.168.1.105][4][-][info][application] $_GET = [
+    'r' => 'site/login'
+]
+
+$_POST = [
+    '_csrf-frontend' => '1XvZFDbxbhrVtZPhlB8rEat9C6OXtESIjJtjiK8X8mebGOFdTrIsTLPb5KL_Z0pizxpxlMfcNOX47hTPxH-oOA=='
+    'LoginForm' => [
+        'username' => '方钢'
+        'password' => '123456'
+        'rememberMe' => '1'
+    ]
+    'login-button' => ''
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '0302b42b6352a06c7eaaed90726222c1'
+    '_csrf-frontend' => '122cbd8c6e498f18c7f7cfafa545a5c8665c128dc7786b0166dff5e7eb55f0cfa:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"Nc8IxCBVfnwCkxasdgz7PhpmtuwGkhZ_\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPUV4TbQ14KEXVHYroEgAAAAAg'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php?r=site%2Flogin'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'CONTENT_LENGTH' => '251'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_COOKIE' => 'advanced-frontend=0302b42b6352a06c7eaaed90726222c1; _csrf-frontend=122cbd8c6e498f18c7f7cfafa545a5c8665c128dc7786b0166dff5e7eb55f0cfa%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22Nc8IxCBVfnwCkxasdgz7PhpmtuwGkhZ_%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59088'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => 'r=site%2Flogin'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=site%2Flogin'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977623.108
+    'REQUEST_TIME' => 1526977623
+]
+2018-05-22 16:27:04 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/SiteController.php:79
+2018-05-22 16:27:04 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:27:04 [192.168.1.105][4][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPUWITbQ14KEXVHYroEgQAAAAg'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php?r=site%2Flogin'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59088'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/quiz/frontend/web/index.php'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977624.346
+    'REQUEST_TIME' => 1526977624
+]
+2018-05-22 16:27:08 [192.168.1.105][4][7a1b70b23bd73a819668cec77a0fb07b][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: result/indexuser in /Applications/XAMPP/xamppfiles/htdocs/quiz/vendor/yiisoft/yii2/base/Controller.php:128
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/quiz/vendor/yiisoft/yii2/base/Module.php(528): yii\base\Controller->runAction('indexuser', Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/quiz/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction('result/indexuse...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/quiz/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#3 /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php(17): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: 页面未找到。 in /Applications/XAMPP/xamppfiles/htdocs/quiz/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/quiz/vendor/yiisoft/yii2/base/Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php(17): yii\base\Application->run()
+#2 {main}
+2018-05-22 16:27:08 [192.168.1.105][4][7a1b70b23bd73a819668cec77a0fb07b][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+2018-05-22 16:27:08 [192.168.1.105][4][7a1b70b23bd73a819668cec77a0fb07b][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:27:08 [192.168.1.105][4][7a1b70b23bd73a819668cec77a0fb07b][info][application] $_GET = [
+    'r' => 'result/indexuser'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPUXITbQ14KEXVHYroEggAAAAg'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59088'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=result%2Findexuser'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=result%2Findexuser'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977628.307
+    'REQUEST_TIME' => 1526977628
+]
+2018-05-22 16:31:09 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/SiteController.php:79
+2018-05-22 16:31:09 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:31:08 [192.168.1.105][4][-][info][application] $_GET = [
+    'r' => 'site/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPVTGD7TmfvJS1dhc7o1QAAAAs'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php?r=result%2Findexuser'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59204'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=site%2Findex'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=site%2Findex'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977868.974
+    'REQUEST_TIME' => 1526977868
+]
+2018-05-22 16:31:12 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/ResultController.php:86
+2018-05-22 16:31:12 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:31:11 [192.168.1.105][4][-][info][application] $_GET = [
+    'r' => 'result/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPVT2D7TmfvJS1dhc7o1gAAAAs'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php?r=site%2Findex'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59204'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=result%2Findex'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=result%2Findex'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526977871.921
+    'REQUEST_TIME' => 1526977871
+]
+2018-05-22 16:35:40 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/ResultController.php:86
+2018-05-22 16:35:40 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:35:39 [192.168.1.105][4][-][info][application] $_GET = [
+    'r' => 'result/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPWW4TbQ14KEXVHYroEgwAAAAg'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php?r=site%2Findex'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59282'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=result%2Findex'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=result%2Findex'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526978139.904
+    'REQUEST_TIME' => 1526978139
+]
+2018-05-22 16:35:43 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/ResultController.php:86
+2018-05-22 16:35:43 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:35:42 [192.168.1.105][4][-][info][application] $_GET = [
+    'r' => 'result/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPWXoTbQ14KEXVHYroEhgAAAAg'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php?r=site%2Findex'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59282'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=result%2Findex'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=result%2Findex'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526978142.869
+    'REQUEST_TIME' => 1526978142
+]
+2018-05-22 16:38:41 [192.168.1.105][4][7a1b70b23bd73a819668cec77a0fb07b][error][yii\base\ErrorException:64] yii\base\ErrorException: yii\base\View::renderPhpFile(): Failed opening required '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/result/index.php' (include_path='.:/Applications/XAMPP/xamppfiles/lib/php') in /Applications/XAMPP/xamppfiles/htdocs/quiz/vendor/yiisoft/yii2/base/View.php:336
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2018-05-22 16:38:41 [192.168.1.105][4][7a1b70b23bd73a819668cec77a0fb07b][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:38:41 [192.168.1.105][4][7a1b70b23bd73a819668cec77a0fb07b][info][application] $_GET = [
+    'r' => 'result/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPXEXy8o3PwPZiMXpFiWgAAAAA'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_REFERER' => 'http://192.168.1.106/quiz/frontend/web/index.php?r=site%2Findex'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59339'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=result%2Findex'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=result%2Findex'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526978321.057
+    'REQUEST_TIME' => 1526978321
+]
+2018-05-22 16:42:37 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/views/layouts/main.php:81
+    in /Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/controllers/ResultController.php:86
+2018-05-22 16:42:37 [192.168.1.105][4][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.105
+2018-05-22 16:42:36 [192.168.1.105][4][-][info][application] $_GET = [
+    'r' => 'result/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'advanced-frontend' => '7a1b70b23bd73a819668cec77a0fb07b'
+    '_csrf-frontend' => '3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a:2:{i:0;s:14:\"_csrf-frontend\";i:1;s:32:\"EJ2B8krGIJd6La-KeUay_0bks-GIMTHD\";}'
+    '_identity-frontend' => '9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a:2:{i:0;s:18:\"_identity-frontend\";i:1;s:46:\"[4,\"zyAvLj6isI_DkirhbC6jwp21GfflT0kb\",2592000]\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__id' => 4
+]
+
+$_SERVER = [
+    'UNIQUE_ID' => 'WwPX-HqKg18yOjqhfEVrogAAAAk'
+    'HTTP_ACCEPT' => 'text/html, application/xhtml+xml, image/jxr, */*'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.16299'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_HOST' => '192.168.1.106'
+    'HTTP_CONNECTION' => 'Keep-Alive'
+    'HTTP_COOKIE' => 'advanced-frontend=7a1b70b23bd73a819668cec77a0fb07b; _csrf-frontend=3e1ead1b1472c4dbd8fd7dc1e169980b1bfc5a0361d38d775036456979f2eb56a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-frontend%22%3Bi%3A1%3Bs%3A32%3A%22EJ2B8krGIJd6La-KeUay_0bks-GIMTHD%22%3B%7D; _identity-frontend=9cf6a99db14198bccc98065847157ab0cf2945951d3802af9cdb2a7fe0838494a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22_identity-frontend%22%3Bi%3A1%3Bs%3A46%3A%22%5B4%2C%22zyAvLj6isI_DkirhbC6jwp21GfflT0kb%22%2C2592000%5D%22%3B%7D'
+    'PATH' => '/usr/bin:/bin:/usr/sbin:/sbin'
+    'DYLD_LIBRARY_PATH' => '/Applications/XAMPP/xamppfiles/lib:/Applications/XAMPP/xamppfiles/lib'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache/2.4.29 (Unix) OpenSSL/1.0.2n PHP/7.2.3 mod_perl/2.0.8-dev Perl/v5.16.3'
+    'SERVER_NAME' => '192.168.1.106'
+    'SERVER_ADDR' => '192.168.1.106'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '192.168.1.105'
+    'DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => '/Applications/XAMPP/xamppfiles/htdocs'
+    'SERVER_ADMIN' => 'you@example.com'
+    'SCRIPT_FILENAME' => '/Applications/XAMPP/xamppfiles/htdocs/quiz/frontend/web/index.php'
+    'REMOTE_PORT' => '59402'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => 'r=result%2Findex'
+    'REQUEST_URI' => '/quiz/frontend/web/index.php?r=result%2Findex'
+    'SCRIPT_NAME' => '/quiz/frontend/web/index.php'
+    'PHP_SELF' => '/quiz/frontend/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1526978556.583
+    'REQUEST_TIME' => 1526978556
+]

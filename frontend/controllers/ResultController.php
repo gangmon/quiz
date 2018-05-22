@@ -5,6 +5,7 @@ namespace frontend\controllers;
 use common\models\Choice;
 use common\models\Judgement;
 use common\models\Judgementpaper;
+use frontend\models\ResultFrontSearch;
 use http\Url;
 use Yii;
 use frontend\models\Result;
@@ -78,7 +79,7 @@ class ResultController extends Controller
 
     public function actionIndex()
     {
-        $searchModel = new ResultSearch();
+        $searchModel = new ResultFrontSearch();
         $dataProvider = $searchModel->search(Yii::$app->request->queryParams);
 
         return $this->render('index', [
