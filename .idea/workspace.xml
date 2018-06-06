@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcc6abfc-e6b7-4ca7-a0ad-535674ab9111" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/config/main-local.php" beforeDir="false" afterPath="$PROJECT_DIR$/common/config/main-local.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef014af65d.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef0168604a.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef017dab59.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef01dc5fbf.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef01f21e27.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef0b269fda.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef1085e162.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef10e8bc89.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef11547048.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef4778b219.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47949513.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47968dd5.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47a9a7fe.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afef47b7602b.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afefd3fa7a89.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afefe4ad011f.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afefe4d36b1b.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5afefe4f2966f.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5aff0215c106f.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5aff022caa1d0.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5aff037f7bb31.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/5aff057fa5932.data" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/runtime/debug/index.data" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/runtime/debug/index.data" afterDir="false" />
-    </list>
+    <list default="true" id="bcc6abfc-e6b7-4ca7-a0ad-535674ab9111" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,8 +17,8 @@
       <file leaf-file-name="main-local.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+            <state relative-caret-position="120">
+              <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -282,12 +256,12 @@
       <workItem from="1526724974900" duration="38000" />
       <workItem from="1526922245040" duration="720000" />
       <workItem from="1526967111192" duration="3582000" />
-      <workItem from="1528252410650" duration="165000" />
+      <workItem from="1528252410650" duration="468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7783000" />
+    <option name="totallyTimeSpent" value="8086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="988" extended-state="6" />
@@ -489,8 +463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common/config/main-local.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="120">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
         </state>
       </provider>
     </entry>
