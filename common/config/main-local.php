@@ -5,7 +5,7 @@ return [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=47.98.200.56;dbname=newy',
             'username' => 'root',
-            'password' => 'thm',
+            'password' => 'fg',
             'charset' => 'utf8',
             'tablePrefix' => 'test_',
         ],
